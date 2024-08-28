@@ -131,6 +131,18 @@
     border-radius: 32px;
 }
 
+.mensaje_box{    
+    background: var(--color-terciario);
+    background-image: url(/assets/encriptar.jpg);
+    background-repeat: no-repeat;
+    border: none;
+    border-radius: 24px;
+    color:var(--color-secundario);
+    margin-left: 0%;
+    margin-top: 0px;
+    padding-left: 20px;
+}
+
 .bnt-copiar{
 display: flex;
     flex-direction: row;
